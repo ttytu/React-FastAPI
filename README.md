@@ -6,6 +6,18 @@
   - Vite 
   - Tailwindcss
 
+#### Initialize
+ 
+```bash
+npm i 
+```
+
+#### Start Dev
+
+```bash
+npm start dev
+```
+
 ### Backend 
 
 - Python
@@ -17,6 +29,10 @@
 
 ### Docker 
 
-- Docker-compose for backend & database 
+- Docker-compose for backend & database
+
+```bash
+docker compose up
+```
 
 --- 
