@@ -1,33 +1,33 @@
-## Basic Template for Full Stack Projects
+# Basic Template for Full Stack Projects
 
-### Frontend
+## Frontend
 
-- React 
-  - Vite 
+- React
+  - Vite
   - Tailwindcss
 
-#### Initialize
- 
+### Initialize
+
 ```bash
 npm i 
 ```
 
-#### Start Dev
+### Start Dev
 
 ```bash
 npm start dev
 ```
 
-### Backend 
+## Backend
 
 - Python
   - FastAPI
 
-### Database 
+## Database
 
 - MongoDB
 
-### Docker 
+## Docker
 
 - Docker-compose for backend & database
 
@@ -35,4 +35,4 @@ npm start dev
 docker compose up
 ```
 
---- 
+---
