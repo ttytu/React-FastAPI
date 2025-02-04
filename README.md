@@ -12,7 +12,7 @@
 npm i 
 ```
 
-### Start Dev
+### Start Dev to default port 5173
 
 ```bash
 npm start dev
@@ -29,10 +29,10 @@ npm start dev
 
 ## Docker
 
-- Docker-compose for backend & database
+- Backend and DB are managed by Docker compose
+  - Backend port 8008
+  - DB port 27018
 
 ```bash
 docker compose up
 ```
-
----
